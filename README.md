@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Game
+# Tic-Tac-Toe-Game-Written-In-Java
 A classic Tic-Tac-Toe game where two players alternate taking turns on a 3-by-3 grid.
 In this version of the game, the Player's move is represented by the character 'X' while the CPU's move is represented by the character 'O'.
 There are a total of 8 winning conditions.
